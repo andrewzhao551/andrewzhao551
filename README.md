@@ -42,7 +42,9 @@ Selected repository:
 
 ## Academic Goal
 
-I am interested in pursuing research in ML Systems and Efficient AI, with a focus on understanding the interaction between numerical precision, optimization behavior, and large-scale training stability.
+I am actively seeking summer research opportunities in the United States to further develop my research experience in ML Systems and Efficient AI.
+
+My long-term goal is to pursue a PhD in the U.S., focusing on training dynamics, numerical stability, and optimization behavior in large-scale machine learning systems.
 
 ---
 
