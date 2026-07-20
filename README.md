@@ -1,4 +1,4 @@
-# Zhao Chenran
+# Chenran Zhao
 
 Undergraduate researcher studying optimization dynamics and numerical stability in large-scale machine learning systems.
 
